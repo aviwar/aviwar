@@ -13,10 +13,11 @@
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ---
 
